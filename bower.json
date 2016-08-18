@@ -1,0 +1,23 @@
+{
+  "name": "nasdaq-100",
+  "homepage": "https://github.com/jeffaustin81/nasdaq-100",
+  "authors": [
+    "Jeff Austin <jeffaustin81@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "static/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "3.2.0",
+    "jquery": "2.1.1",
+    "d3": "3.4.11"
+  }
+}
